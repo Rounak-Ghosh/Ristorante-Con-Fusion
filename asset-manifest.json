@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ristorante-Con-Fusion/static/css/main.1f5ac49b.css",
+    "main.js": "/Ristorante-Con-Fusion/static/js/main.ef08d2e1.js",
+    "static/js/787.2e4ac314.chunk.js": "/Ristorante-Con-Fusion/static/js/787.2e4ac314.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Ristorante-Con-Fusion/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Ristorante-Con-Fusion/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Ristorante-Con-Fusion/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Ristorante-Con-Fusion/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Ristorante-Con-Fusion/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Ristorante-Con-Fusion/index.html",
+    "main.1f5ac49b.css.map": "/Ristorante-Con-Fusion/static/css/main.1f5ac49b.css.map",
+    "main.ef08d2e1.js.map": "/Ristorante-Con-Fusion/static/js/main.ef08d2e1.js.map",
+    "787.2e4ac314.chunk.js.map": "/Ristorante-Con-Fusion/static/js/787.2e4ac314.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f5ac49b.css",
+    "static/js/main.ef08d2e1.js"
+  ]
+}
